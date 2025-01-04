@@ -1,0 +1,11 @@
+{
+    "sendImage": true,
+    "year": 2025,
+    "scheduledTime": {
+        "month": 0,
+        "day": 4,
+        "hour": 21,
+        "minute": 22,
+        "second": 20
+    }
+}
