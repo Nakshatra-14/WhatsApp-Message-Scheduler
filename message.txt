@@ -1,1 +1,0 @@
-Hello, wishing you a Happy New Year ${year}!
